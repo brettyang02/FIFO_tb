@@ -1,0 +1,8 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+D:/ISML/0623_FIFO_tb/FIFO.v,1687574052,verilog,,D:/ISML/0623_FIFO_tb/tb.v,,top,,,,,,,,
+D:/ISML/0623_FIFO_tb/FIFO_tb/FIFO_tb.gen/sources_1/ip/fifo_w32_1024_r256_128/sim/fifo_w32_1024_r256_128.v,1687536221,verilog,,D:/ISML/0623_FIFO_tb/FIFO.v,,fifo_w32_1024_r256_128,,,,,,,,
+D:/ISML/0623_FIFO_tb/FIFO_tb/FIFO_tb.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,
+D:/ISML/0623_FIFO_tb/tb.v,1687575330,verilog,,,,tb,,,,,,,,
